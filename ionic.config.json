@@ -1,0 +1,7 @@
+{
+  "name": "rapidHelp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
